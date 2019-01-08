@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
