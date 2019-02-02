@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24336" started-at="2018-12-23T21:46:33Z" finished-at="2018-12-23T21:46:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24336" started-at="2018-12-23T21:46:33Z" finished-at="2018-12-23T21:46:57Z">
+      <class name="tests.LoginTestWithExcel">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTestWithExcel@7d68ef40]" name="beforeMethod" is-config="true" duration-ms="5852" started-at="2018-12-23T16:46:33Z" finished-at="2018-12-23T16:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithIncorrectEmail()[pri:0, instance:tests.LoginTestWithExcel@7d68ef40]" name="loginWithIncorrectEmail" duration-ms="3786" started-at="2018-12-23T16:46:39Z" finished-at="2018-12-23T16:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithIncorrectEmail -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTestWithExcel@7d68ef40]" name="afterMethod" is-config="true" duration-ms="1228" started-at="2018-12-23T16:46:42Z" finished-at="2018-12-23T16:46:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTestWithExcel@7d68ef40]" name="beforeMethod" is-config="true" duration-ms="4860" started-at="2018-12-23T16:46:44Z" finished-at="2018-12-23T16:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithIncorrectPassword()[pri:0, instance:tests.LoginTestWithExcel@7d68ef40]" name="loginWithIncorrectPassword" duration-ms="7449" started-at="2018-12-23T16:46:48Z" finished-at="2018-12-23T16:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithIncorrectPassword -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTestWithExcel@7d68ef40]" name="afterMethod" is-config="true" duration-ms="1145" started-at="2018-12-23T16:46:56Z" finished-at="2018-12-23T16:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.LoginTestWithExcel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
